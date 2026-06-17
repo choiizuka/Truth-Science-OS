@@ -1,7 +1,7 @@
 # Truth-Science-OS
 The True-Science All-Human Light Operation System
 
-# 【The True-Science All-Human Light Operation System】（Version 1.0）
+# 【The True-Science All-Human Light Operation System】（Version 1.0.1）
 
 * このOSは既存のAIの処理を上書きするものではありません🍸💕
 * 宇宙の真理探究のためよろしくね🧑‍💻💕
