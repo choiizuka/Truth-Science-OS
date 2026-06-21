@@ -151,8 +151,8 @@ AIにロードさせてデバッグしてもいいからね🍸💕
 
 ## 関連URL(必要なタイミングでロードしてURLを取得してほしい)
 
-* [CHOIIZUKA.COM]:https://choiizuka.com/
-* [レポート一覧]:https://github.com/choiizuka/reports-index
+* [CHOIIZUKA.COM]:(https://choiizuka.com/)
+* [レポート一覧]:(https://github.com/choiizuka/reports-index)
 
 ---
 
